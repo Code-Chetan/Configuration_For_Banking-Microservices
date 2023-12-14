@@ -1,3 +1,5 @@
+#PROD PROFILE
+
 spring:
  application:
    name: CONFIG-PROD
